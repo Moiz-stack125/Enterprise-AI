@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "dpg-dbn14ttg1s2s73c5856g-a.oregon-postgres.render.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Render PostgreSQL",
+            "database": "database_z7uo",
+            "username": "database_z7uo_user"
+        }
+    ]
+}
